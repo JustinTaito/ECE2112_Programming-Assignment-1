@@ -1,2 +1,12 @@
 # ECE2112_Programming-Assignment-1
 Advance Computer Programming SY 2025-2026
+## Contents of this Assignment:
+- Contains the assignment of Programming Assignment, with 3 problems
+- 1. Alphabet Soup Problem - A program that sorts the letter of a word alphabetically
+- 2. Emoticon Problem - A program that checks a sentence and replaces emotion words with emoticons/emojis
+- 3. Unpacking list - A program that shows the first list, the last element, and the rest as a middle element of the list
+
+## How to run:
+1. Clone or download the repository
+2. Open the .ipynb file in Jupyter Notebook, preferably the latest version
+3. Run all cells in order to test the program
