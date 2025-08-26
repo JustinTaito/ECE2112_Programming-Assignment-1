@@ -1,5 +1,7 @@
 # ECE2112_Programming-Assignment-1
 Advance Computer Programming SY 2025-2026
+Name: Ruiz, Justin Danrei C || 2ECE-C
+
 ## Contents of this Assignment:
 - Contains the assignment of Programming Assignment, with 3 problems
 - 1. Alphabet Soup Problem - A program that sorts the letter of a word alphabetically
