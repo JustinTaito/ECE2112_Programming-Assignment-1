@@ -14,5 +14,5 @@ Advance Computer Programming SY 2025-2026
 
 ## How to run:
 1. Clone or download the repository
-2. Open the .ipynb file in Jupyter Notebook, preferably the latest version
+2. Open the .ipynb file in Jupyter Notebook, preferably in the latest version
 3. Run all cells in order to test the program
