@@ -6,9 +6,12 @@ Advance Computer Programming SY 2025-2026
   2. To be able to apply the different codes and functions in creating a Python program
 ## 📝Contents of this Assignment 📝
 - Contains the assignment of Programming Assignment, with 3 problems:
-   1. Alphabet Soup Problem - A program that sorts the letters of a word alphabetically ``Ex: hello - ehllo``
-   2. Emoticon Problem - A program that checks a sentence and replaces emotion words with emoticons/emojis ``Ex: Happy - :)``
-   3. Unpacking list - A program that shows the first list, the last element, and the rest as a middle element of the list `` Ex: first, middle, last``
+   1. Alphabet Soup Problem - A program that sorts the letters of a word alphabetically
+      ``Ex: hello - ehllo``
+   2. Emoticon Problem - A program that checks a sentence and replaces emotion words with emoticons/emojis
+      ``Ex: Happy - :)``
+   3. Unpacking list - A program that shows the first list, the last element, and the rest as a middle element of the list
+      `` Ex: first, middle, last``
 ## 💭 Why it's useful 💭
 - Alphabet Soup Problem explores the creative use of sorting operations and the use of lists
 - Emoticon Problem explores how we can use the replace or get operation
