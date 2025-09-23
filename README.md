@@ -26,7 +26,7 @@ def alphabet_soup(strng):  # declaring alphabet_soup
 alphabet_soup("hello")   # prints hello to ehllo
 alphabet_soup("hacker")  # prints hacker to acehkr
 ```
-   3. **Emoticon Problem** - A program that checks a sentence and replaces emotion words with emoticons/emojis using get function
+   2. **Emoticon Problem** - A program that checks a sentence and replaces emotion words with emoticons/emojis using get function
       ``Ex: Happy - :)``
 ``` python
 # Emoticon Problem
@@ -54,7 +54,7 @@ def emotify(phrase): # Declares emotify function
 print(emotify("Make me smile"))    # Make me :)
 print(emotify("I am mad"))         # I am >:(
 ```
-   5. **Unpacking list** - A program that shows the first list, the last element, and the rest as a middle element of the list using dictionary and list
+   3. **Unpacking list** - A program that shows the first list, the last element, and the rest as a middle element of the list using dictionary and list
       `` Ex: first, middle, last``
 ``` python
 # Unpack List Problem
